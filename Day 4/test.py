@@ -1,7 +1,7 @@
 import random
 
 
-list = ["Top", "Mid","Jungle","Support","Adc"]
+list = ["Top", "Mid","Jungle","Support","Adc","None"]
 
 list.append("Fill")
 
