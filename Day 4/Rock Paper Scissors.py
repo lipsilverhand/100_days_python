@@ -35,7 +35,7 @@ if player >= 3 or player < 0:
 else:
     print(game[player])
 
-    computer_choice = random.randint(0, 2)
+    bot = random.randint(0, 2)
     print("Bot chose:")
     print(game[bot])
 
